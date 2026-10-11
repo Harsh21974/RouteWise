@@ -1,0 +1,5 @@
+com\routewise\service\DeliveryServiceTest.class
+com\routewise\service\GeocodingServiceTest.class
+com\routewise\service\DeliveryIntakeServiceTest.class
+com\routewise\service\AddressParserTest.class
+com\routewise\service\RouteOptimizerServiceTest.class
